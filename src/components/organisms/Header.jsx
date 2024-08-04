@@ -8,7 +8,7 @@ const Header = () => {
   };
 
   return (
-    <header className="fixed w-full top-0 z-50 flex items-center bg-white shadow-md">
+    <header className="fixed w-[50%] top-0 z-50 flex items-cente">
       <nav className="container mx-auto flex justify-between items-center p-4">
         <div className="flex items-center space-x-2">
           <div className="w-6 h-6 bg-[#B7AB8D] rounded-full"></div>
