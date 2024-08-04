@@ -8,7 +8,7 @@ const ProfileCard = () => {
           <div className="bg-[#B7AB8D] p-6 rounded-lg shadow-lg w-full md:w-3/4 h-auto md:h-[40vh] grid-flow-col gap-4">
             <div>
               <h1 className="text-2xl font-bold text-gray-800 mb-4 font-sans">
-                Hello, I'm Jesús, a front-end developer passionate about creating attractive and functional interfaces.
+                Hello, I'm Jesús Castillo, a front-end developer passionate about creating attractive and functional interfaces.
               </h1>
             </div>
             <div>
